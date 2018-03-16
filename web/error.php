@@ -8,7 +8,6 @@ include("./header.php");?>
     <div class="container" style="height: 100%">
         <div class="row" style="height: 100%">
  <div class="col-12 justify-content-center align-self-center text-center">
-     <img src="//wx3.sinaimg.cn/large/b0738b0agy1fm04l0cw4ej203w02s0sl.jpg" class="p-2" >
       <h2>请求的内容不存在！</h2>
       <p>非常抱歉，您请求的内容未能呈现!</p>
       <p>可能原因:</p>
